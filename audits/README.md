@@ -8,7 +8,7 @@ In case of specific context (i.e. Prophets NFT) it is also part of the folder na
 
 # Audit list
 
-Here we provide a list of current - public available - audits:
+Here we provide a list of current audits:
 
 | Company                | Description                                                                                                   | Report                            | Date                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
