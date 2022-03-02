@@ -1,11 +1,6 @@
 # Babylon Finance Security Audits
 Security audits and code review repository
 
-# Naming convention
-Each audit has an independent folder. The name of the folder indicates the date and the name of the organization responsible of the audit / code review.
-
-In case of specific context (i.e. Prophets NFT) it is also part of the folder name.
-
 # Audit list
 
 Here we provide a list of current audits:
@@ -18,4 +13,7 @@ Here we provide a list of current audits:
 | Pessimistic               | Prophets NFT security audit                             | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20211105_Prophets_Pessimistic/Babylon_Finance_Security_Analysis_by_Pessimistic.pdf)       |                 November 2021                      |
 | Pessimistic               | Garden and Strategy security audit                           | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20220222_Pessimistic/Babylon_Security_Analysis_by_Pessimistic.pdf)       |                 February 2022                      |
 
+# Naming convention
+Each audit has an independent folder. The name of the folder indicates the date and the name of the organization responsible of the audit / code review.
 
+In case of specific context (i.e. Prophets NFT) it is also part of the folder name.
