@@ -1,6 +1,6 @@
 # Babylon Finance Security Process
 
-This document describes the Security Process for Babylon Finance, including vulnerability disclosures and its [Bug Bounty program](#bug-bounty-program). We are committed to conduct our Security Process in a professional and civil manner. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
+This document describes the Security Process for Babylon Finance, including vulnerability disclosures and an incoming [Bug Bounty program](#bug-bounty-program). We are committed to conduct our Security Process in a professional and civil manner. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
 
 To submit a finding, please follow the steps outlined in receiving disclosures [section](#receiving-disclosures).
 
@@ -48,7 +48,9 @@ In the case where we fix a security issue in Babylon that also affects the follo
 
 _Babylon does not currently have any established bilateral disclosure agreements._
 
-## Bug Bounty Program (COMING SOON)
+## Bug Bounty Program
+
+(COMING SOON)
 
 Babylon is planning to launch a Bug Bounty program to encourage security researchers to spend time studying the protocol in order to uncover vulnerabilities. We believe these researchers should get fairly compensated for their time and effort, and acknowledged for their valuable contributions.
 
@@ -79,13 +81,14 @@ Actual payouts are determined by classifying the vulnerability based on its impa
 
 ### Scope
 
-The scope of the Bug Bounty program spans production smart contracts utilized in the Babylon Finance ecosystem.
+The future scope of the Bug Bounty program spans production smart contracts utilized in the Babylon Finance ecosystem as well as the dapp and related production infrastructure.
 
 #### Repositories
 
-For exact smart contracts, refer to:
+For exact smart contracts, please check the list at:
 
 - [babylon-finance/protocol](https://github.com/babylon-finance/protocol/)
+- [babylon-finance/prophets](https://github.com/babylon-finance/prophets/)
 
 #### Production Contracts
 
@@ -100,8 +103,7 @@ Note: Other contracts, outside of the ones mentioned above, might be considered 
 
 ## Deviations from the Standard
 
-The standard describes reporters of vulnerabilities including full details of an issue, in order to reproduce it. This is necessary for instance in the case of an external researcher both demonstrating and proving that there really is a security issue, and that security issue really has the impact that they say it
-has - allowing the development team to accurately prioritize and resolve the issue.
+The standard describes reporters of vulnerabilities including full details of an issue, in order to reproduce it. This is necessary for instance in the case of an external researcher both demonstrating and proving that there really is a security issue, and that security issue really has the impact that they say it has - allowing the development team to accurately prioritize and resolve the issue.
 
 In the case of a counterfeiting or fund-stealing bug affecting Babylon Finance, however, we might decide not to include those details with our reports to partners ahead of coordinated release, as long as we are sure that they are not vulnerable.
 
@@ -111,4 +113,4 @@ Additional security-related information about the Babylon Finance project includ
 
 ## Credits
 
-Parts of this document were inspired by [Yearn Finance security policy](https://github.com/yearn/yearn-security/master/SECURITY.md) and [Grin's security policy](https://github.com/mimblewimble/grin/blob/master/SECURITY.md).
+Parts of this document were inspired by [Yearn Finance security policy](https://github.com/yearn/yearn-security/master/SECURITY.md) as well as it is inspired by [Grin's security policy](https://github.com/mimblewimble/grin/blob/master/SECURITY.md).
