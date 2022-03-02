@@ -17,12 +17,11 @@ PLEASE BE AWARE THAT CURRENT DOCUMENT IS A CODE REVIEW FOR THE BABYLON TEAM.
 THE DOCUMENT SHOULD NOT BE REFERRED TO AS A PUBLIC AUDIT REPORT UNDER ANY CIRCUMSTANCES AND/OR PRESENTED AS A WARRANTY OF CODE SAFETY.
 **** FOR INTERNAL USE ONLY ****
 
-Anyway it was not a bad decision as MixBytes auditors demonstrated having high level security DeFi experts who helped a lot to find even more issues than initially expected.
 
 ## Scope of the code review
 
 
-The scope of the audit includes the following smart contracts at:
+The scope of the audit included the following smart contracts at:
 
 https://github.com/babylon-finance/protocol/blob/d0f1f850404a37b7a8630bf62342ca9b1cfb2ed3/contracts/BabController.sol
 https://github.com/babylon-finance/protocol/blob/d0f1f850404a37b7a8630bf62342ca9b1cfb2ed3/contracts/GardenValuer.sol
