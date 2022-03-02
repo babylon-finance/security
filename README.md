@@ -1,5 +1,5 @@
-# security
-Babylon Finance structured security information
+# Babylon Finance Security Repository
+Babylon Finance structured security information repository
 
 ## Security policy
 Babylon Finance security policy is available at https://github.com/babylon-finance/security/blob/master/SECURITY.md
