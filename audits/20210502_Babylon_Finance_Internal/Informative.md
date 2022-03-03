@@ -47,7 +47,7 @@
 (Refs. IshtarGate.sol line 264)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/315](https://github.com/babylon-finance/protocol/pull/315))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/315)
     
     </aside>
     

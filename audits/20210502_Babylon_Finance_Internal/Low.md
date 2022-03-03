@@ -269,7 +269,7 @@
 (Refs. TimeLockedToken line 330)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/329](https://github.com/babylon-finance/protocol/pull/329))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/329)
     
     </aside>
     

@@ -4,7 +4,7 @@
 (Refs. IshtarGate.sol line 74)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/315](https://github.com/babylon-finance/protocol/pull/315))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/315)
     
     </aside>
     
@@ -135,7 +135,7 @@
     ```
     
 5. // R [ISSUE][MEDIUM] It is recommended to use controller (upgradeable) address for example initializing it in the constructor instead of using it as param each time, it help to avoid mistakes but also to avoid malicious potential behavior using malicious controllers.
-(Refs. [GardenFactory.so](http://gardenfactory.so)l mitigating risks but also at GardenNFT.sol, Garden.sol, Strategy.sol, StrategyFactory.sol)
+(Refs. [GardenFactory.sol] mitigating risks but also at GardenNFT.sol, Garden.sol, Strategy.sol, StrategyFactory.sol)
     
     <aside>
     💡 SOLVED (Set controller at factories PR#308)
@@ -467,7 +467,7 @@
 (Refs. Garden.sol line 457)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/312](https://github.com/babylon-finance/protocol/pull/312))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/312)
     
     </aside>
     
@@ -515,7 +515,7 @@
 (Refs. TimeLockedToken.sol line 390)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/329](https://github.com/babylon-finance/protocol/pull/329))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/329)
     
     </aside>
     
@@ -537,7 +537,7 @@
 (Refs. VoteToken.sol line 123)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb](https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb)
     
     </aside>
     
@@ -575,7 +575,7 @@
 (Refs. VoteToken.sol line 125)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb](https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/347/commits/57bbfa2dfaa243ba6c6594ac626dca8065b284bb)
     
     </aside>
     
@@ -605,7 +605,7 @@
 (Refs. RewardsDistributor.sol line 73)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/351/commits/65d4ea81e5596d7915c39e0e7fb62655d374f42b](https://github.com/babylon-finance/protocol/pull/351/commits/65d4ea81e5596d7915c39e0e7fb62655d374f42b))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/351/commits/65d4ea81e5596d7915c39e0e7fb62655d374f42b)
     
     </aside>
     
@@ -620,7 +620,7 @@
 (Refs. RewardsDistributor.sol line 217 and 262)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/368](https://github.com/babylon-finance/protocol/pull/368))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/368)
     
     </aside>
     
@@ -649,7 +649,7 @@
 (Refs. LendIntegration.sol line 166)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/368](https://github.com/babylon-finance/protocol/pull/368))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/368)
     
     </aside>
     
