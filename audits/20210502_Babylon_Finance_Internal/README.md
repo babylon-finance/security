@@ -14,7 +14,7 @@ All findings are divided in pages depending on their severity. The order goes fr
 
 | Severity                |     #findings                                                                                                   | Report   |                    
 | ---------------------- | ---------------------------------------------------------------- | --------------------------------- |
-| Criticals               | #0                            | [**Criticals**]([NO CRITICALS FOUND])  | 
+| Criticals               | #0                            | [**Critical**]  | 
 | High              | #13                            | [**High**](./High.md)    |
 | Medium             | #19                            | [**Medium**](./Medium.md) |
 | Low            | #11                            | [**Low**](./Low.md) |
@@ -24,7 +24,7 @@ All findings are divided in pages depending on their severity. The order goes fr
 
 **(click on the title of each page to see all the issues classified in that category)**
 
-[**Critical**](./README.md) 
+[**Critical**]
 
 **Critical** severity issues need to be fixed as soon as possible. They are usually allowing a drastic reduction of the balance of the system or their users' without consent, they put in danger the whole integrity of the system or they can even stuck the whole system stopping it from normal and expected functioning. They damage and impact the future of the whole system and its brand reputation.
 
