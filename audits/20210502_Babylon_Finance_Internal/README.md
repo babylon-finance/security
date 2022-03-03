@@ -2,7 +2,9 @@
 
 Ongoing internal security audit report for the first period until Team Alpha launch
 
-## Code date ** all commits between 2021 May the 7th to Team Alpha release**
+## Code date 
+
+**All commits between 2021 May the 7th to Team Alpha release**
 
 
 **last commit ID**: 4cd7359ce7db0f297d40681ab4ef92daf763b0cc (alpha tag) 
