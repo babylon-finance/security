@@ -1,14 +1,13 @@
 # Internal Security Audit v1
 
-Created: May 10, 2021 7:49 PM
-Last Edited Time: March 3, 2022 8:13 PM
-Status: Completed
+Ongoing internal security audit report for the first period until Team Alpha launch
 
-**Code date: since 2021 May the 7th to Team Alpha release**
+## Code date ** all commits between 2021 May the 7th to Team Alpha release**
 
-last commit ID: 4cd7359ce7db0f297d40681ab4ef92daf763b0cc (alpha tag) 
 
-**Findings**
+**last commit ID**: 4cd7359ce7db0f297d40681ab4ef92daf763b0cc (alpha tag) 
+
+## Findings
 
 All findings are divided in pages depending on their severity. The order goes from the most important to the less important issues.
 
@@ -21,7 +20,7 @@ All findings are divided in pages depending on their severity. The order goes fr
 | Informative            | #8                            | [**Informative**](./Informative.md) |
 
 
-
+## Severity
 **(click on the title of each page to see all the issues classified in that category)**
 
 [**Critical**]
@@ -44,34 +43,34 @@ All findings are divided in pages depending on their severity. The order goes fr
 
 **Informative** severity are raised in order all the team is aware of this behavior of the code as they eventually brings new discussions and decisions to be taken.
 
-**Files reviewed so far:**
+## Scope of the code review
 
-BabController.sol
+`BabController.sol`
 
-GardenValuer.sol
+`GardenValuer.sol`
 
-IshtarGate.sol
+`IshtarGate.sol`
 
-Treasury.sol
+`Treasury.sol`
 
-PriceOracle.sol
+`PriceOracle.sol`
 
-gardens/Garden.sol
+`gardens/Garden.sol`
 
-gardens/GardenFactory.sol
+`gardens/GardenFactory.sol`
 
-gardens/GardenNFT.sol
+`gardens/GardenNFT.sol`
 
-strategies/Strategy.sol
+`strategies/Strategy.sol`
 
-strategies/StrategyFactory.sol
+`strategies/StrategyFactory.sol`
 
-strategies/StrategyNFT.sol
+`strategies/StrategyNFT.sol`
 
-token/BABLToken.sol
+`token/BABLToken.sol`
 
-token/TimeLockedToken.sol
+`token/TimeLockedToken.sol`
 
-token/VoteToken.sol
+`token/VoteToken.sol`
 
-token/RewardsDistributor.sol
+`token/RewardsDistributor.sol`
