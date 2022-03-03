@@ -4,7 +4,7 @@
 Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/314](https://github.com/babylon-finance/protocol/pull/314))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/314)
     
     </aside>
     
@@ -36,7 +36,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Ref. IstharGate.sol line 282)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/315](https://github.com/babylon-finance/protocol/pull/315))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/315)
     
     </aside>
     
@@ -71,7 +71,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. Garden.sol lines 1019 and 770)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/319](https://github.com/babylon-finance/protocol/pull/319))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/319)
     
     </aside>
     
@@ -112,7 +112,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. BabController.sol line 197)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/321](https://github.com/babylon-finance/protocol/pull/321))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/321)
     
     </aside>
     
@@ -146,7 +146,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. Garden.sol lines 466)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/307](https://github.com/babylon-finance/protocol/pull/307))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/307)
     
     </aside>
     
@@ -172,7 +172,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. Garden.sol lines 420)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/320](https://github.com/babylon-finance/protocol/pull/320)) but downgraded to LOW due to the exploit used showed that 
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/320) but downgraded to LOW due to the exploit used showed that 
     "strategies = strategies.remove(_strategy);" 
     saved last minute the mess ;) of duplicating all withdrawals. Anyway it was fixed to disable non-official strategy calls.
     
@@ -225,7 +225,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. Strategy.sol line 859)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/312](https://github.com/babylon-finance/protocol/pull/312))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/312)
     
     </aside>
     
@@ -281,7 +281,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. Strategy.sol line 826 and 844)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/312](https://github.com/babylon-finance/protocol/pull/312))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/312)
     
     </aside>
     
@@ -395,7 +395,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. RewardsDistributor.sol line 475)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/351](https://github.com/babylon-finance/protocol/pull/351))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/351)
     
     </aside>
     
@@ -442,7 +442,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. RewardsDistributor.sol line 269, 501, 895, 936, 980)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/351](https://github.com/babylon-finance/protocol/pull/351))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/351)
     
     </aside>
     
@@ -556,7 +556,7 @@ Refs: Deposit() in Garden.sol - line 311 and → makeGardenPublic() line 504
 (Refs. RewardsDistributor.sol line 269, 501, 895, 936, 980)
     
     <aside>
-    💡 SOLVED ([https://github.com/babylon-finance/protocol/pull/370](https://github.com/babylon-finance/protocol/pull/370))
+    💡 SOLVED (https://github.com/babylon-finance/protocol/pull/370)
     
     </aside>
     
