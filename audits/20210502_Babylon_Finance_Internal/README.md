@@ -12,19 +12,19 @@ last commit ID: 4cd7359ce7db0f297d40681ab4ef92daf763b0cc (alpha tag)
 
 All findings are divided in pages depending on their severity. The order goes from the most important to the less important issues.
 
-| Severity                | #findings                                                                                                   | Report                       
-| ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
-| Criticals               | #0                            | [**Criticals**]([NO CRITICALS FOUND])   
-| High              | #13                            | [**High**](./High.md)    
-| Medium             | #19                            | [**Medium**](./Medium.md) 
-| Low            | #11                            | [**Low**](./Low.md) 
-| Informative            | #8                            | [**Informative**](./Informative.md) 
+| Severity                |     #findings                                                                                                   | Report   |                    
+| ---------------------- | ---------------------------------------------------------------- | --------------------------------- |
+| Criticals               | #0                            | [**Criticals**]([NO CRITICALS FOUND])  | 
+| High              | #13                            | [**High**](./High.md)    |
+| Medium             | #19                            | [**Medium**](./Medium.md) |
+| Low            | #11                            | [**Low**](./Low.md) |
+| Informative            | #8                            | [**Informative**](./Informative.md) |
 
 
 
 **(click on the title of each page to see all the issues classified in that category)**
 
-[**Critical**]([NO CRITICALS FOUND])
+[**Critical**](./README.md) 
 
 **Critical** severity issues need to be fixed as soon as possible. They are usually allowing a drastic reduction of the balance of the system or their users' without consent, they put in danger the whole integrity of the system or they can even stuck the whole system stopping it from normal and expected functioning. They damage and impact the future of the whole system and its brand reputation.
 
