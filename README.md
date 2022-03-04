@@ -4,7 +4,7 @@ Babylon Finance structured security information repository
 ## Security policy
 Babylon Finance security policy is available at https://github.com/babylon-finance/security/blob/master/SECURITY.md
 
-For more detailed risk management information, Babylon Finance Security Master Plan is available at [Security Master Plan](https://docs.babylon.finance/security/security)
+For more detailed risk management information, Babylon Finance Security Master Plan is available at (https://docs.babylon.finance/security/security)
 
 ## About
 This git repository is a central place for all other security-related information about the Babylon Finance project. It includes the following:
