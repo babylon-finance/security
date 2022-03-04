@@ -1,13 +1,11 @@
-# Internal Security Audit
+# Internal Security Audit Infrastructure
 
-Ongoing internal security audit report for the first period until Team Alpha launch
+Ongoing internal infrastructure security audit report
 
-## Code date 
+## Date 
 
-**All commits between 2021 May the 7th to Team Alpha release**
+**Nov 2021 the 09th**
 
-
-**last commit ID**: 4cd7359ce7db0f297d40681ab4ef92daf763b0cc (alpha tag) 
 
 ## Findings
 
@@ -16,10 +14,10 @@ All findings are divided in pages depending on their severity. The order goes fr
 | Severity                |     #findings                                                                                                   | Report   |                    
 | ---------------------- | ---------------------------------------------------------------- | --------------------------------- |
 | Criticals               | #0                            | [**Critical**]  | 
-| High              | #13                            | [**High**](./High.md)    |
-| Medium             | #19                            | [**Medium**](./Medium.md) |
-| Low            | #11                            | [**Low**](./Low.md) |
-| Informative            | #8                            | [**Informative**](./Informative.md) |
+| High              | #2                            | [**High**](./High.md)    |
+| Medium             | #8                            | [**Medium**](./Medium.md) |
+| Low            | #5                            | [**Low**](./Low.md) |
+| Informative            | #1                            | [**Informative**](./Informative.md) |
 
 
 ## Severity
@@ -45,34 +43,33 @@ All findings are divided in pages depending on their severity. The order goes fr
 
 **Informative** severity are raised in order all the team is aware of this behavior of the code as they eventually brings new discussions and decisions to be taken.
 
-## Scope of the code review
+## Scope of the infrastructure review
 
-`BabController.sol`
+`Encrypted password vault`
+`DNS / Registrar / Domain lock`
+`Mail Marketing platform`
+`SPF, DKIM, DMARC`
+`CSP and XSS`
+`Anti DDoS`
+`CDN`
+`dApp (website)`
+`SSL Certificate`
+`Logs`
+`Dababases`
+`Environmental variables`
+`Ethereum nodes`
+`Alerts`
+`Github`
+`.gitignore`
+`Lambdas`
+`Pinata`
+`Gitbook`
+`Smart contract ownerships`
+`Multisig`
+`HW wallets`
+`Social networks and Discord`
+`Blacklist`
+`Privacy policy compliance`
+`Documentation`
+`Pentesting and exploiting`
 
-`GardenValuer.sol`
-
-`IshtarGate.sol`
-
-`Treasury.sol`
-
-`PriceOracle.sol`
-
-`gardens/Garden.sol`
-
-`gardens/GardenFactory.sol`
-
-`gardens/GardenNFT.sol`
-
-`strategies/Strategy.sol`
-
-`strategies/StrategyFactory.sol`
-
-`strategies/StrategyNFT.sol`
-
-`token/BABLToken.sol`
-
-`token/TimeLockedToken.sol`
-
-`token/VoteToken.sol`
-
-`token/RewardsDistributor.sol`
