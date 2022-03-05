@@ -1,6 +1,9 @@
 # Babylon Finance Security Repository
 Babylon Finance structured security information repository
 
+## Security audits
+In Babylon Finance we have 7 security audits so far. For more information please check the audit section [`audits/`](./audits/).
+
 ## Security policy
 Babylon Finance security policy is available at https://github.com/babylon-finance/security/blob/main/SECURITY.md
 
