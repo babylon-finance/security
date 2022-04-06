@@ -35,8 +35,9 @@ For all security related issues, Babylon Finance has the following main points o
 | Contact                | Public key                                                                                                   | Email                             | Key ID                                          |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
 | Security               | [PGP](https://github.com/babylon-finance/security/blob/master/keys/security.asc)                             | security at babylon.finance       | 0323 BF77                                       |
+| Raul               | [PGP](https://github.com/babylon-finance/security/blob/master/keys/raul.asc)                             | raul at babylon.finance       | 6106 87C1                                       |
 
-Include all contacts in your communication, PGP encrypted to all parties.
+Include ALL contacts in your communication, PGP encrypted to ALL parties in the same email.
 
 You can also reach out informally over keybase encrypted chat to one or more of the contacts as per the details above.
 
