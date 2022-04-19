@@ -14,7 +14,7 @@ Here we provide a list of current audits:
 | Pessimistic               | Prophets NFT security audit                             | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20211105_Prophets_Pessimistic/Babylon_Finance_Security_Analysis_by_Pessimistic.pdf)       |                 November 2021                      |
 | Babylon Finance               | Infrastructure audit                             | [BabylonFinance](https://github.com/babylon-finance/security/blob/master/audits/20211109_Babylon_Finance_Internal/README.md)       |                 November 2021                      |
 | Pessimistic               | Garden and Strategy security audit                           | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20220222_Pessimistic/Babylon_Security_Analysis_by_Pessimistic.pdf)       |                 February 2022                      |
-| Pessimistic               | Heart and Rewards Distributor security audit                           | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20220418_Pessimistic/Babylon_Security_Analysis_Public_Version.pdf)       |                 February 2022                      |
+| Pessimistic               | Heart and Rewards Distributor security audit                           | [Pessimistic](https://github.com/babylon-finance/security/blob/master/audits/20220418_Pessimistic/Babylon_Security_Analysis_Public_Version.pdf)       |                 April 2022                      |
 
 
 # Naming convention
