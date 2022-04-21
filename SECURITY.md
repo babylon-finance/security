@@ -1,10 +1,10 @@
 # Babylon Finance Security Process
 
-This document describes the Security Process for Babylon Finance, including vulnerability disclosures and an incoming [Bug Bounty program](#bug-bounty-program). 
+This document describes the Security Process for Babylon Finance, including vulnerability disclosures and the ongoing [Bug Bounty program](#bug-bounty-program). 
 
 We are committed to conduct our Security Process in a professional and civil manner. Public shaming, under-reporting, or misrepresentation of vulnerabilities will not be tolerated.
 
-To submit a finding, please follow the steps outlined in receiving disclosures [section](#receiving-disclosures).
+For any vulnerability not in the scope of the bug bounty program, please follow the [section](#receiving-disclosures) as the team might also be interested on it.
 
 ## Responsible Disclosure Standard
 
@@ -20,11 +20,19 @@ Any expected deviations and necessary clarifications around the standard are exp
 
 ## Receiving Disclosures
 
-### Directly to Babylon
-
 Babylon Finance is committed to working with researchers who submit security vulnerability notifications to us, to resolve those issues on an appropriate timeline, and to perform a coordinated release, giving credit to the reporter if they would so like.
 
-Please submit issues to **all** of the following main points of contact for
+## Bug Bounty Program
+
+https://immunefi.com/bounty/babylonfinance/
+
+Babylon has launched a Bug Bounty program to encourage security researchers to spend time studying the protocol in order to uncover vulnerabilities. We believe these researchers should get fairly compensated for their time and effort, and acknowledged for their valuable contributions.
+
+### Directly to Babylon
+
+In case of a vulnerability not in the scope of the bug bounty please reach out the team directly.
+
+In these cases, Please submit issues to **all** of the following main points of contact for
 security related issues according to the
 [initial contact](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#initial-contact)
 and [giving details](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#giving-details)
@@ -39,8 +47,6 @@ For all security related issues, Babylon Finance has the following main points o
 
 Include ALL contacts in your communication, PGP encrypted to ALL parties in the same email.
 
-You can also reach out informally over keybase encrypted chat to one or more of the contacts as per the details above.
-
 ## Sending Disclosures
 
 In the case where we become aware of security issues affecting other projects that has never affected Babylon Finance, our intention is to inform those projects of security issues on a best effort basis.
@@ -50,41 +56,6 @@ In the case where we fix a security issue in Babylon that also affects the follo
 ## Bilateral Responsible Disclosure Agreements
 
 _Babylon does not currently have any established bilateral disclosure agreements._
-
-## Bug Bounty Program
-
-https://immunefi.com/bounty/babylonfinance/
-
-Babylon has launched a Bug Bounty program to encourage security researchers to spend time studying the protocol in order to uncover vulnerabilities. We believe these researchers should get fairly compensated for their time and effort, and acknowledged for their valuable contributions.
-
-### Rules
-
-1. Bug has not been publicly disclosed.
-2. Vulnerabilities that have been previously submitted by another contributor or already known by the Babylon Finance development team are not eligible for rewards.
-3. The size of the bounty payout depends on the assessment of the severity of the exploit. Please refer to the rewards [section](#rewards) below for additional details.
-4. Bugs must be reproducible in order for us to verify the vulnerability.
-5. Rewards and the validity of bugs are determined by the Babylon Finance security team and any payouts are made at their sole discretion.
-6. Terms and conditions of the Bug Bounty program can be changed at any time at the discretion of Babylon Finance.
-7. Details of any valid bugs may be shared with complementary protocols utilized in the Babylon Finance ecosystem in order to promote ecosystem cohesion and safety.
-
-### Classifications
-
-- **Critical:** Highly likely to have a material impact on availability, integrity, and/or loss of funds.
-- **High:** Likely to have impact on availability, integrity, and/or loss of funds.
-- **Medium:** Possible to have an impact on availability, integrity, and/or loss of funds.
-- **Low:** Unlikely to have a meaningful impact on availability, integrity, and/or loss of funds.
-
-### Rewards
-
-- TBD
-
-_Paid out in USD equivalent of USDC, DAI, ETH, BABL, or their Garden lp tokens counterparts._
-
-Actual payouts are determined by classifying the vulnerability based on its impact and likelihood to be exploited successfully, as well as the process working with the disclosing security researcher. The rewards above represent the _maximum_ that will be paid out for a disclosure.
-
-### Scope
-
-The future scope of the Bug Bounty program spans production smart contracts utilized in the Babylon Finance ecosystem as well as the dapp and related production infrastructure.
 
 #### Repositories
 
