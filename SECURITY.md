@@ -53,9 +53,9 @@ _Babylon does not currently have any established bilateral disclosure agreements
 
 ## Bug Bounty Program
 
-(COMING SOON)
+https://immunefi.com/bounty/babylonfinance/
 
-Babylon is planning to launch a Bug Bounty program to encourage security researchers to spend time studying the protocol in order to uncover vulnerabilities. We believe these researchers should get fairly compensated for their time and effort, and acknowledged for their valuable contributions.
+Babylon has launched a Bug Bounty program to encourage security researchers to spend time studying the protocol in order to uncover vulnerabilities. We believe these researchers should get fairly compensated for their time and effort, and acknowledged for their valuable contributions.
 
 ### Rules
 
