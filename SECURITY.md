@@ -22,7 +22,7 @@ Any expected deviations and necessary clarifications around the standard are exp
 
 Babylon Finance is committed to working with researchers who submit security vulnerability notifications to us, to resolve those issues on an appropriate timeline, and to perform a coordinated release, giving credit to the reporter if they would so like.
 
-## Bug Bounty Program
+### Bug Bounty Program
 
 https://immunefi.com/bounty/babylonfinance/
 
