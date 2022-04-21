@@ -5,7 +5,8 @@ Babylon Finance structured security information repository
 In Babylon Finance we have 7 security audits so far. For more information please check the audit section [`audits/`](./audits/).
 
 ## Bug Bounty
-https://twitter.com/immunefi/status/1517225928140546050?s=20&t=I8sAzjAVLTvbZQ2feQY6kA
+We have partnered with Immunefi to launch a bounty program with up to $100k for critical vulnerabilities.
+https://immunefi.com/bounty/babylonfinance/
 
 ## Security policy
 Babylon Finance security policy is available at https://github.com/babylon-finance/security/blob/main/SECURITY.md
